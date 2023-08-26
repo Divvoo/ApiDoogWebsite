@@ -18,6 +18,8 @@ button.addEventListener("click", function(){
 
 document.getElementById("buttom").innerHTML=x;
 
+document.getElementById("less").innerHTML=y;
+
 
 
 
