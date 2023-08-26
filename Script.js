@@ -16,6 +16,8 @@ button.addEventListener("click", function(){
     document.getElementById("image").innerHTML = `<p>String text ${movies.message}</p>`
 // }
 
+document.getElementById("buttom").innerHTML=x;
+
 
 
 
